@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Saxena</h1>
 <h3 align="center">A passionate Software developer from UBC!</h3>
 
-- 🔭 I’m currently working on [Ai-Chatbot](https://github.com/6s-1/AI-CLUB-CHATBOT-Generator)
+- 👨‍💻 I’m currently working on [Ai-Chatbot](https://github.com/6s-1/AI-CLUB-CHATBOT-Generator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/6s-1?tab=repositories](https://github.com/6s-1?tab=repositories)
 
