@@ -5,9 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/6s-1?tab=repositories](https://github.com/6s-1?tab=repositories)
 
-- 📫 How to reach me **Shreya.saxena@gmail.com**
+- 👨‍💻 How to reach me **Shreya.saxena@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shreya--saxena/](https://www.linkedin.com/in/shreya--saxena/)
+- 👨‍💻 Know about my experiences [https://www.linkedin.com/in/shreya--saxena/](https://www.linkedin.com/in/shreya--saxena/)
+
+- 👨‍💻 My Personal Portfolio : https://6s-1.github.io/Shreya-s-portfolio-website/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
